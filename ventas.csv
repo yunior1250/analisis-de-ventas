@@ -1,0 +1,11 @@
+fecha,producto,categoria,cantidad,precio_unitario,total,ciudad,vendedor
+2025-01-05,Mouse Logitech,Accesorios,2,45,90,Lima,Ana
+2025-01-06,Laptop HP 15,Computo,1,2800,2800,Arequipa,Luis
+2025-02-10,Teclado Mecanico,Accesorios,3,180,540,Lima,Carla
+2025-02-15,Monitor 24'' LG,Computo,2,650,1300,Trujillo,Ana
+2025-03-03,Audifonos Sony,Audio,1,220,220,Cusco,Jorge
+2025-03-20,Disco SSD 1TB,Computo,4,320,1280,Lima,Maria
+2025-04-08,Parlante Bluetooth,Audio,2,130,260,Piura,Luis
+2025-05-12,Memoria RAM 16GB,Computo,5,210,1050,Arequipa,Carla
+2025-06-01,Cargador USB-C,Accesorios,3,60,180,Trujillo,Jorge
+2025-06-18,Webcam Logitech,Accesorios,1,150,150,Lima,Ana
